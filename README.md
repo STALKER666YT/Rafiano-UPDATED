@@ -9,15 +9,12 @@
 After you selected a song to play, the script gives you 5 seconds to maximize RAFT.
 After the 5-seconds pass, it emulates you pressing the right keys.
 
-Right now, there is no way to stop the script except for closing it.
+If you need to stop the script, make the Rafiano window in focus and press P
 
 ## Notesheet's
 The script reads the Notsheet file and lets you play the songs that are in that file saved.
 
 This is a Notesheet song example: 
-
-(A Wiki song from https://raft.fandom.com/wiki/Raft_Piano_Sheet_Music that I converted to a Notesheet)
-
 ```
 |Bella Ciao|wiki|1.0
 0  0.1 0.1
@@ -132,6 +129,3 @@ to play the piano key "9"  while holding Space for 0.2 seconds and wait for 0.2 
 
 A "#" is a comment.
 `# everything after "#" is ignored`
-
-A Notesheet can contain multiple Songs see Notesheet
-[example](https://github.com/RandomThingsIveDone/Rafiano/blob/main/Notesheet).
