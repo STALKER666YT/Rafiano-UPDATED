@@ -9,7 +9,7 @@
 After you selected a song to play, the script gives you 5 seconds to maximize RAFT.
 After the 5-seconds pass, it emulates you pressing the right keys.
 
-If you need to stop the script, make the Rafiano window in focus and press P
+If you need to stop the script, bring the Rafiano window in focus and press P
 
 ## Notesheet's
 The script reads the Notsheet file and lets you play the songs that are in that file saved.
