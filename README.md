@@ -174,7 +174,7 @@ Credits
 
 RandomThingsIveDone: Menu Coding and Notesheet format         https://github.com/RandomThingsIveDone/Rafiano
 PrzemekkkYT: MIDI conversion code and song added              https://github.com/PrzemekkkYT/RaftMIDI
-STALKER666YT: added new songs                                 https://github.com/STALKER666YT/Rafiano-UPDATED-
+STALKER666YT: added new songs                                 https://github.com/STALKER666YT/Rafiano-UPDATED
 ```
 ---
 
